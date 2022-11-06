@@ -8,7 +8,7 @@ I am a software engineer with a focus on backend development. My previous experi
 
 - 👩🏻‍💻 I’m currently working on **Java** and **Spring** projects at my internship with **Indeed**!
 
-- 📚 I’m currently learning **advanced Java**, **Elastic Search**, and hope to dive deeper into **AWS services**.
+- 📚 I’m currently learning **advanced Java**, **Elasticsearch**, and hope to dive deeper into **AWS services**.
 
 - 💬 I love talking about **Lean Six Sigma**, **programming**, and ways to optimize **efficiency**.
 
