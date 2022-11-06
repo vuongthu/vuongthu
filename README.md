@@ -12,9 +12,9 @@ I am a software engineer with a focus on backend development. My previous experi
 
 - 💬 I love talking about **Lean Six Sigma**, **programming**, and ways to optimize **efficiency**.
 
-- 📫 I am active on **[LinkedIn](https://www.linkedin.com/in/vuongthu/)** :)
+- 📫 Let's chat on **[LinkedIn](https://www.linkedin.com/in/vuongthu/)** :)
 
-- 🌱 If I caught your attention, be sure to check out my [portfolio - TBA](TBD) as well!
+- 🌱 Portfolio in progress - coming soon!
 
 - ⚡ Fun fact: Although I was born in Vietnam, I haven't been able to go back and visit for 22 years! Hoping to break this record soon 😉
 
@@ -42,13 +42,15 @@ I am a software engineer with a focus on backend development. My previous experi
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) </br>
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=#000000) 
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring%20boot)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) </br>
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring%20boot) </br>
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 ![Gradle](https://img.shields.io/badge/-Gradle-000000?style=flat&logo=gradle)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-000000?style=flat&logo=junit5)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch) </br>
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual%20studio%20code)
 
 <h2 align="left">Software Tools</h2>
 
@@ -60,7 +62,7 @@ I am a software engineer with a focus on backend development. My previous experi
 ![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![ClickUp](https://img.shields.io/badge/-ClickUp-000000?style=flat&logo=clickup)
-![Diagrams](https://img.shields.io/badge/-Diagrams-000000?style=flat&logo=diagrams.net)
+![Diagrams.net](https://img.shields.io/badge/-Diagrams.net-000000?style=flat&logo=diagrams.net)
 
 <h2 align="left">GitHub Overview</h2>
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongthu&layout=compact&hide=procfile&theme=vue-dark" alt="vuongthu"/>
