@@ -18,6 +18,13 @@ I am a software engineer with a focus on backend development. My previous experi
 
 - ⚡ Fun fact: Although I was born in Vietnam, I haven't been able to go back and visit for 22 years! Hoping to break this record soon 😉
 
+<h2 align="left">Notable Projects</h2>
+
+| Project | Repo | Demo |
+| :-----------: | :-----------: | :-----------: |
+| HomeDex | [Frontend](https://github.com/vuongthu/homedex-frontend) • [Backend](https://github.com/vuongthu/homedex-backend) | [MVP Demo](https://drive.google.com/file/d/1LEgKoR5gpt1Y7TTG0S9Pg36NijPRLZY0/view?usp=sharing)
+| Inspiration Board | [Frontend](https://github.com/vuongthu/inspiration-board-frontend) • [Backend](https://github.com/vuongthu/inspiration-board-backend) | [Demo](https://inspiration-board-frontend.onrender.com/)
+| Weather Report | [Frontend](https://github.com/vuongthu/weather-report) | [Demo](https://vuongthu.github.io/weather-report/)
 
 <h2 align="left">Languages</h2>
 
@@ -65,6 +72,6 @@ I am a software engineer with a focus on backend development. My previous experi
 ![Diagrams.net](https://img.shields.io/badge/-Diagrams.net-000000?style=flat&logo=diagrams.net)
 
 <h2 align="left">GitHub Overview</h2>
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongthu&layout=compact&hide=procfile&theme=vue-dark" alt="vuongthu"/>
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongthu&layout=compact&hide=procfile,mako&theme=vue-dark&langs_count=10" alt="vuongthu"/>
 <img width="300" src="https://github-readme-stats.vercel.app/api?username=vuongthu&show_icons=true&locale=en&theme=vue-dark&count_private=true" alt="vuongthu"/>
 <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=vuongthu&theme=vue-dark" alt="vuongthu"/>
