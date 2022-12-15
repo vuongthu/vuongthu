@@ -4,7 +4,7 @@
 
 I am a software engineer with a focus on backend development. My previous experiences were in pharmacy and operations. After leaving the pharmacy industry, I decided to specialize in non-profit and sales operations in healthcare and edtech industries which led to me to discover my passion for technology, optimization, and efficiency. My enthusiasm stems from realizing how technology can be used to streamline internal and external processes, creating innovative solutions to root causes, and building sustainable solutions.
 
-<img align="right" alt="woman-coding" width="450" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> 
+<img align="right" alt="woman-coding" width="415" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> 
 
 - 👩🏻‍💻 I’m currently working on **Java** and **Spring** projects at my internship with **Indeed**!
 
