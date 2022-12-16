@@ -32,34 +32,38 @@ I am a software engineer with a focus on backend development. My previous experi
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Software Tools</h2>
 
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring%20boot)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=#000000)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Node.JS](https://img.shields.io/badge/-Node%2EJS-000000?style=flat&logo=node%2Ejs)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=reactnative) 
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios) </br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-000000?style=flat&logo=amazon%20dynamodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch) </br>
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab) </br>
-![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-000000?style=flat&logo=amazon%20dynamodb)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) </br>
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) </br>
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=#000000) 
-![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring%20boot) </br>
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab)
 ![Gradle](https://img.shields.io/badge/-Gradle-000000?style=flat&logo=gradle)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-000000?style=flat&logo=junit5)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch) </br>
+![DataDog](https://img.shields.io/badge/-DataDog-000000?style=flat&logo=datadog) </br>
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual%20studio%20code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual%20studio%20code) </br>
 
-<h2 align="left">Software Tools</h2>
+<h2 align="left">Other Tools</h2>
 
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira%20software)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-000000?style=flat&logo=salesforce)
