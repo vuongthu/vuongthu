@@ -51,6 +51,7 @@ I am a software engineer with a focus on backend development. My previous experi
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch) </br>
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Sourcegraph](https://img.shields.io/badge/-Sourcegraph-000000?style=flat&logo=sourcegraph)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
