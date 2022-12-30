@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thu!</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Thu!" alt="Typing SVG" /></h1>
 <h6 align="center">pronunciation: like the number 2!</h6>
 <h6 align="center">pronouns: she / her</h6>
 
