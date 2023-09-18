@@ -6,9 +6,11 @@ I am a software engineer with a focus on backend development. My previous experi
 
 <img align="right" alt="woman-coding" width="415" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> 
 
-- 👩🏻‍💻 I’m currently working on **Java** and **Spring** projects at my internship with **Indeed**!
+- 👩🏻‍💻 I’m currently working on **SwiftUI** project to keep the scoring for the board game, Catan!
 
-- 📚 I’m currently learning **advanced Java**, **Elasticsearch**, and hope to dive deeper into **AWS services**.
+- 👩🏻‍💻 At my former internship with Indeed, I worked on **Java** and **Spring** projects.
+
+- 📚 I’m currently learning **SwiftUI** and hope to dive deeper into **AWS services**.
 
 - 💬 I love talking about **Lean Six Sigma**, **programming**, and ways to optimize **efficiency**.
 
@@ -16,7 +18,7 @@ I am a software engineer with a focus on backend development. My previous experi
 
 - 🌱 Portfolio in progress - coming soon!
 
-- ⚡ Fun fact: Although I was born in Vietnam, I haven't been able to go back and visit for 22 years! Hoping to break this record soon 😉
+- ⚡ Fun fact: Although I was born in Vietnam, I haven't been able to go back and visit for 23 years! Hoping to break this record soon 😉
 
 <h2 align="left">Notable Projects</h2>
 
