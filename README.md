@@ -81,4 +81,4 @@ I am a software engineer with a focus on backend development. My previous experi
 <h2 align="left">GitHub Overview</h2>
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongthu&layout=compact&hide=procfile,mako,dockerfile,shell&theme=vue-dark&langs_count=10" alt="vuongthu"/>
 <img width="300" src="https://github-readme-stats.vercel.app/api?username=vuongthu&show_icons=true&locale=en&theme=vue-dark&count_private=true" alt="vuongthu"/>
-<img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=vuongthu&theme=vue-dark" alt="vuongthu"/>
+<img width="300" src="https://streak-stats.demolab.com/?user=vuongthu&theme=vue-dark&exclude_days=Sun%2CSat" alt="vuongthu"/>
