@@ -34,18 +34,23 @@ I am a software engineer with a focus on backend development. My previous experi
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
 <h2 align="left">Software Tools</h2>
 
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring%20boot)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=#000000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Node.JS](https://img.shields.io/badge/-Node%2EJS-000000?style=flat&logo=node%2Ejs)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=reactnative) 
+![Next.JS](https://img.shields.io/badge/-Next%2EJS-000000?style=flat&logo=next%2Ejs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react) 
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios) </br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![AWS DynamoDB](https://img.shields.io/badge/-AWS%20DynamoDB-000000?style=flat&logo=amazon%20dynamodb)
@@ -62,7 +67,7 @@ I am a software engineer with a focus on backend development. My previous experi
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-000000?style=flat&logo=junit5)
 ![DataDog](https://img.shields.io/badge/-DataDog-000000?style=flat&logo=datadog) </br>
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![IntelliJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual%20studio%20code) </br>
 
@@ -70,13 +75,12 @@ I am a software engineer with a focus on backend development. My previous experi
 
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira%20software)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-000000?style=flat&logo=salesforce)
-![Asana](https://img.shields.io/badge/-Asana-000000?style=flat&logo=asana)
+![Diagrams.net](https://img.shields.io/badge/-Diagrams.net-000000?style=flat&logo=diagrams.net)
+![ClickUp](https://img.shields.io/badge/-ClickUp-000000?style=flat&logo=clickup)
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello)
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable)
 ![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![ClickUp](https://img.shields.io/badge/-ClickUp-000000?style=flat&logo=clickup)
-![Diagrams.net](https://img.shields.io/badge/-Diagrams.net-000000?style=flat&logo=diagrams.net)
 
 <h2 align="left">GitHub Overview</h2>
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongthu&layout=compact&hide=procfile,mako,dockerfile,shell&theme=vue-dark&langs_count=10" alt="vuongthu"/>
