@@ -14,9 +14,9 @@ I am a software engineer with a focus on backend development. My previous experi
 
 - 💬 I love talking about **Lean Six Sigma**, **programming**, and ways to optimize **efficiency**.
 
-- 📫 Let's chat on **[LinkedIn](https://www.linkedin.com/in/vuongthu/)** :)
+- 📫 Let's chat on **[LinkedIn](https://www.linkedin.com/in/vuongthu)** :)
 
-- 🌱 Portfolio in progress - coming soon!
+- 🌱 Check out my **[Portfolio](https://thuvuong.com)** page!
 
 - ⚡ Fun fact: Although I was born in Vietnam, I haven't been able to go back and visit for 23 years! Hoping to break this record soon 😉
 
