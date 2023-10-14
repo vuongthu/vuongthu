@@ -47,8 +47,8 @@ I am a software engineer with a focus on backend development. My previous experi
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring%20boot)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Node.JS](https://img.shields.io/badge/-Node%2EJS-000000?style=flat&logo=node%2Ejs)
-![Next.JS](https://img.shields.io/badge/-Next%2EJS-000000?style=flat&logo=next%2Ejs)
+![Node.js](https://img.shields.io/badge/-Node%2Ejs-000000?style=flat&logo=node%2Ejs)
+![Next.js](https://img.shields.io/badge/-Next%2Ejs-000000?style=flat&logo=next%2Ejs)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react) 
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios) </br>
