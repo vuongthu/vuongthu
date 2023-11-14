@@ -2,7 +2,9 @@
 <h6 align="center">pronunciation: like the number 2!</h6>
 <h6 align="center">pronouns: she / her</h6>
 
-I am a software engineer with a focus on backend development. My previous experiences were in pharmacy and operations. After leaving the pharmacy industry, I decided to specialize in non-profit and sales operations in healthcare and edtech industries which led to me to discover my passion for technology, optimization, and efficiency. My enthusiasm stems from realizing how technology can be used to streamline internal and external processes, creating innovative solutions to root causes, and building sustainable solutions.
+I have a non-traditional background that started in healthcare & business operations which led me to my dream path of software engineering! I completed a software engineering program studying full-stack development at Ada Developers Academy. Afterward, I completed a 6-month internship with Indeed where I worked on their Resume Search product.
+
+My experiences have transformed my critical thinking process which allows me to channel my passion for operational excellence, medical training knowledge, and human resources collaboration strategies into software development. My enthusiasm stems from realizing how technology can be used to streamline internal and external processes, creating innovative solutions to root causes, and building sustainable solutions.
 
 <img align="right" alt="woman-coding" width="415" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif"> 
 
